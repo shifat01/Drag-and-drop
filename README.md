@@ -3,6 +3,24 @@ This is a simple drag-and-drop project built with **HTML**, **CSS**, and **JavaS
 It allows users to drag list items from one box (left) to another box (right) and vice versa.
 
 ---
+## 🚀 Demo
+
+### 🌐 Live demo: [click here](https://draganddrop01.netlify.app/)
+
+#### or, 
+
+### link: https://draganddrop01.netlify.app/
+
+>
+---
+
+## 📸 Preview
+
+![Digital Clock Preview](images/screenshots/Screenshot_4.png)
+
+
+---
+
 
 ## 🧩 Features
 
