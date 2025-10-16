@@ -16,7 +16,7 @@ It allows users to drag list items from one box (left) to another box (right) an
 
 ## 📸 Preview
 
-![Digital Clock Preview](images/screenshots/Screenshot_4.png)
+![Digital Clock Preview](images/Screenshot_1.png)
 
 
 ---
